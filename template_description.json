@@ -10,6 +10,7 @@
     "https://doi.org/10.1371/journal.pone.0018746",
     "http://www.nitrc.org/projects/pediatricatlas"],
   "TemplateFlowVersion": "1.0.0",
+  "Species": "Homo sapiens",
   "Version": "2.3-20130325",
   "cohort": {
     "1": {
