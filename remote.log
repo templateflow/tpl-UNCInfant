@@ -1,1 +1,1 @@
-8b3da2dd-6992-4d0c-94fd-74a3979a8438 bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-UNCInfant/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1607464963.0565s
+8b3da2dd-6992-4d0c-94fd-74a3979a8438 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-UNCInfant/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1641380632.883184s
