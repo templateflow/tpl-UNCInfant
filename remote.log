@@ -1,2 +1,3 @@
 63f78e8e-55eb-4998-9d1d-c7e75a886aca autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-UNCInfant/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641385564.743144s
+7d317534-a339-496a-b421-615abdd5d9b0 autoenable=true location=https://gin.g-node.org/templateflow/tpl-UNCInfant name=gin-src type=git timestamp=1641508160.689293s
 8b3da2dd-6992-4d0c-94fd-74a3979a8438 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-UNCInfant/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1641384399.292741s
